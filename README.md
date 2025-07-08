@@ -19,8 +19,8 @@ I'm an **Engineering Student**, **passionate software engineer**, **AI enthusias
 | Technology | Tools & Frameworks |
 | :--- | :--- |
 | Frontend | React, Flutter |
-| Backend | Node.js, Python, Express, Firebase |
-| Database | MongoDB, Firebase Firestore |
+| Backend | Node.js, Python, Express, Firebase, Java Spring Boot |
+| Database | MongoDB, MySQL, PostgreSQL, Supabase |
 | AI/ML | Whisper, Llama, OpenAI GPT, custom voice cloning |
 | DevOps | Docker, Nginx |
 | Microcontrollers | Arduino Nano RP2040 |
